@@ -6,3 +6,16 @@ Green: #00B172
 White: #FFF
 
 */
+/* Iteration 2: Hero Section */
+.hero {
+    background-image: url('../images/landing.jpg'); /* Das passt perfekt zu deinem Screenshot */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    /* ... restlicher Code bleibt gleich ... */
+}
+
+/* In Iteration 4: CSS Klasse umbenannt passend zum HTML oben */
+.app-img {
+    width: 350px; /* Ein bisschen größer sieht bei dem Mockup besser aus */
+}
